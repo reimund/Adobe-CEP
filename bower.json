@@ -1,0 +1,22 @@
+{
+  "name": "adobe-cep",
+  "version": "6.0.0",
+  "authors": [
+    "Reimund Trost <reimund@code7.se>"
+  ],
+  "description": "Getting Started with Adobe CC 2014 Extension SDK",
+  "keywords": [
+    "adobe",
+    "cep",
+    "extensions",
+    "html-panel",
+    "html",
+    "panel",
+    "csinterface",
+    "creative",
+    "cloud",
+    "sdk"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Adobe-CEP/CEP-Resources"
+}
