@@ -1,9 +1,10 @@
 {
   "name": "adobe-cep",
+  "version": "8.0.0",
   "authors": [
     "Reimund Trost <reimund@code7.se>"
   ],
-  "description": "Getting Started with Adobe CC 2014 Extension SDK",
+  "description": "Getting Started with Common Extensibility Platform (CEP)",
   "keywords": [
     "adobe",
     "cep",
